@@ -1,6 +1,6 @@
 # About
 
-Rust & Python enthusiast with an interest in networking, graphics, reverse engineering, windows internals and more.
+Rust & Python enthusiast with an interest in networking, graphics, reverse engineering, windows internals, and more.
 ___
 # Technologies
 
